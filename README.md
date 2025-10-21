@@ -13,6 +13,7 @@ A Python toolbox for ArcGIS Pro that allows you to open locations in Google Maps
 *The tool interface in ArcGIS Pro*
 
 ![Demo](images/demo.gif)
+
 *Clicking on map to open Google Maps*
 
 ## Features
