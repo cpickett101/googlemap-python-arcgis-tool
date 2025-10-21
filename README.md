@@ -158,7 +158,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 If you encounter any issues or have questions:
-- Open an [issue](https://github.com/cpickett101/google-maps-tools/issues)
+- Open an [issue](https://github.com/cpickett101/googlemap-python-arcgis-tool/issues)
 - Submit a pull request
 - Check existing issues for solutions
 
