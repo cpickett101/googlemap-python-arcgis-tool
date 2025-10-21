@@ -1,4 +1,4 @@
-\# Contributing
+# Contributing
 
 
 
@@ -18,9 +18,10 @@ Contributions are welcome! Here's how you can help:
 
 
 
-\## Bug Reports
+## Bug Reports
 
 
 
 Please use the GitHub Issues tab to report bugs.
+
 
