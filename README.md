@@ -125,7 +125,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Your Name**
 - GitHub: [@cpickett101](https://github.com/cpickett101)
 - Email: christopherbpickett@gmail.com
-- LinkedIn: [LinkedIn](hhttps://www.linkedin.com/in/christopher-p-a4908979/)
+- LinkedIn: https://www.linkedin.com/in/christopher-p-a4908979
 
 ## Contact
 
